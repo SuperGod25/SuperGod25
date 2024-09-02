@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SuperGod25
-- 👀 I’m interested in Game Development, App Development for mobile and desktop.
-- 🌱 I’m currently learning C#, Unity3D&2D
-- 💞️ I’m looking to collaborate on a Unity game project.
+- 👀 I’m interested in Java Development and Game Development.
 - 📫 How to reach me: 
 e-mail: filipovicisebastian69@gmail.com
 LinkedIn: https://www.linkedin.com/in/sebastian-filipovici-a5329a205
